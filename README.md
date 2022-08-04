@@ -1,7 +1,9 @@
 # BigQuery-Unique-Features
 Theoretical and Practical explanations of the unique features of BigQuery - Geospatial, Machine Learning, Arrays and Structs, Partitioning and Clustering.
 
-#Link to Blogs
+
+
+# Link to Blogs
 
 **Introduction to Google BigQuery** - https://medium.com/@sfredrick35/introduction-to-google-bigquery-4d0e84cd7ce1
 
